@@ -42,7 +42,7 @@ Real-time Traffic Information: APIs from Google Maps and other traffic monitorin
  # Clone the repository:
 
 
-git clone https://github.com/yourusername/traffic-congestion-analysis.git
+git clone https://github.com/annie34-aiboom/Bits_Theory_Traffic_Congestion_Analysis
 Navigate to the project directory:
 
 
