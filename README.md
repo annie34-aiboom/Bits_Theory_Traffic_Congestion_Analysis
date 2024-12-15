@@ -36,7 +36,7 @@ Development Environment: Jupyter Notebook,spyer-py3
 # Data Source(s)
 Historical Traffic Data: Sourced from local traffic authorities and public datasets.
 
-Real-time Traffic Information: APIs from Google Maps and other traffic monitoring services.
+
 
  # Execution Steps (How to run the project)
  # Clone the repository:
