@@ -2,7 +2,7 @@ Project Title
 # Bits_Theory_Traffic_Congestion_Analysis
 
 # Group Members
-Avani Dogra - KU2407U260 - (Visualization and Dashboard Developer AND Data Analyst)
+Avani Dogra - KU2407U260 - ( Developer AND Data Analyst)
 
 Shreya Patil - KU2407U713 - (Data Collection and Preprocessing Specialist)
 
