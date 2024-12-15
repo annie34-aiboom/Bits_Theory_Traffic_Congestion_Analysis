@@ -11,7 +11,7 @@ Nilesh shau  - KU2407U340 - (Quality Assurance (QA) Analyst)
  Dhanya Goswami - KU2407U652 - (PROJECT MANAGER)
 
 # Project Description
-This project aims to analyze the traffic congestion in a city using bits theory. The project will involve collecting
+Traffic congestion is a prevalent issue in urban areas, leading to increased travel times, higher pollution levels, and significant economic costs. This project aims to analyze traffic congestion patterns, identify the primary factors contributing to congestion, and propose data-driven strategies to alleviate traffic jams and enhance overall traffic flow
 # Objective
  This repository contains a comprehensive analysis of traffic congestion in urban areas. Using a combination of historical data, real-time traffic information, and predictive modeling, the project aims to identify congestion hotspots, understand underlying causes, and propose actionable solutions
 Features
