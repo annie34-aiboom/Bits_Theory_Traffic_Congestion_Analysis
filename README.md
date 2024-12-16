@@ -2,13 +2,15 @@ Project Title
 # Bits_Theory_Traffic_Congestion_Analysis
 
 # Group Members
-Avani Dogra - KU2407U260 - ( Developer AND Data Analyst)
+Avani Dogra - KU2407U260 - ( Developer )
 
 Shreya Patil - KU2407U713 - (Data Collection and Preprocessing Specialist)
 
 Nilesh shau  - KU2407U340 - (Quality Assurance (QA) Analyst)
 
  Dhanya Goswami - KU2407U652 - (PROJECT MANAGER)
+
+ Kishan Soni - KU2407U658 - ( Data analyst )
 
 # Project Description
 Traffic congestion is a prevalent issue in urban areas, leading to increased travel times, higher pollution levels, and significant economic costs. This project aims to analyze traffic congestion patterns, identify the primary factors contributing to congestion, and propose data-driven strategies to alleviate traffic jams and enhance overall traffic flow
